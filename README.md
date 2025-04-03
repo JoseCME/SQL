@@ -1,8 +1,7 @@
 ### 1. Creación de la Base de Datos
 
 - Se creó una nueva base de datos llamada **UMG** utilizando SQL Server Management Studio (SSMS).
-
-- 
+ 
 ### 2. Creación de Tablas
 
 - Se crearon las tablas vistas en clase usando los scripts proporcionados.
